@@ -8,11 +8,11 @@ hachoir
 heroku3
 lyricsgenius
 motor
-ntgcalls==1.1.2
+ntgcalls==1.2.3
 pillow
 psutil
 pykeyboard
-py-tgcalls==1.2.9
+py-tgcalls==2.0.4
 python-dotenv
 pyyaml
 requests
